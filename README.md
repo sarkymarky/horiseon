@@ -18,4 +18,4 @@ I learned how to
 *organizing css
 *Linking my repo to my vsc
 
-![](Screenshot%20(478).png)
+![Screenshot (477)](https://user-images.githubusercontent.com/110876020/186365430-877eff07-332e-48cf-8eca-1ac8bfa25f87.png)
